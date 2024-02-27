@@ -4,6 +4,8 @@
 
 Basketball Stars is an Android app created as the final submission for the "Belajar Membuat Aplikasi Android untuk Pemula" Dicoding course. Basketball Stars is an Android application built in Kotlin that celebrates the careers of some of the most famous basketball players. Fans can browse through a list of players, view detailed information about their careers, accolades, and personal achievements.
 
+**Please note:** This repository is meant for reference only. Dicoding has a strict plagiarism policy, and all submissions are checked for originality. Use this code to learn and inspire your projects, not to submit as your own work.
+
 ## Features
 
 - **List of Players**: A curated list of current and past basketball star players.
